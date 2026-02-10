@@ -1,9 +1,10 @@
-pandas
 numpy
+pandas
 scikit-learn
 tensorflow
-uvicorn
-fastapi
+opencv-python
 matplotlib
 seaborn
+fastapi
+uvicorn
 joblib
